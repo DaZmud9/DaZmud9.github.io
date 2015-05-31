@@ -241,6 +241,11 @@ var questions = [
 	{'correct': 'b', 'marked': '', 'audio': ''},
 	{'correct': 'a', 'marked': '', 'audio': 'pytania/pytanie4.mp3'},
 	{'correct': 'a', 'marked': '', 'audio': ''},
+	{'correct': 'c', 'marked': '', 'audio': ''},
+	{'correct': 'a', 'marked': '', 'audio': ''},
+	{'correct': 'a', 'marked': '', 'audio': 'pytania/pytanie8.mp3'},
+	{'correct': 'a', 'marked': '', 'audio': ''},
+	{'correct': 'b', 'marked': '', 'audio': ''},
 ]
 
 var play = ['play.gif', 'play2.gif'];
@@ -251,7 +256,7 @@ var board = {x: 500, y: 400, w: 350, h: 230};
 point_size = 4;
 
 points = 0
-question_no = 5
+question_no = 10
 
 button = ['b_in.jpg', 'b_out.jpg']
 b1 = [993, 413, 40, 40];
